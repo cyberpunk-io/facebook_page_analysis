@@ -1,8 +1,6 @@
 # facebook_page_analysis
 a python program for facebook page analysis
-
-Facebook Page Insights Analyzer
-Overview: The Facebook Page Insights Analyzer is a Python application designed to help Facebook page administrators and marketers gather and analyze engagement metrics for their posts. Utilizing the Facebook Graph API, this tool retrieves comprehensive insights, including likes, comments, shares, reach, and impressions for all posts on a specified Facebook page.
+ The Facebook Page Insights Analyzer is a Python application designed to help Facebook page administrators and marketers gather and analyze engagement metrics for their posts. Utilizing the Facebook Graph API, this tool retrieves comprehensive insights, including likes, comments, shares, reach, and impressions for all posts on a specified Facebook page.
 Key Features:
 Fetches and displays engagement metrics for all posts on your Facebook page.
 Analyzes post performance, including likes, comments, shares, reach, and impressions.
