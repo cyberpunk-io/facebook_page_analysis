@@ -13,16 +13,9 @@ Pandas for data manipulation and analysis
 Facebook Graph API for data retrieval
 Getting Started:
 Clone the repository:
-bash
-
-
 git clone https://github.com/yourusername/facebook-page-insights-analyzer.git
-Install the required dependencies:
-bash
 
-
-pip install requests pandas
-Obtain your Facebook Graph API access token and specify your Facebook page ID in the code.
+our Facebook Graph API access token and specify your Facebook page ID in the code.
 Run the script to start analyzing your page's post insights.
 Usage: Run the script to fetch and analyze the engagement metrics of your Facebook posts. Review the output for insights into your audience's interactions and content performance.
 Contributing: Contributions are welcome! If you’d like to improve the application or suggest new features, please open an issue or submit a pull request.
