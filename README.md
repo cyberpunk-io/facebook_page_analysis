@@ -13,7 +13,7 @@ Pandas for data manipulation and analysis
 Facebook Graph API for data retrieval
 Getting Started:
 Clone the repository:
-git clone https://github.com/yourusername/facebook-page-insights-analyzer.git
+git clone https://github.com/cyberpunk-io/facebook-page-insights-analyzer.git
 
 our Facebook Graph API access token and specify your Facebook page ID in the code.
 Run the script to start analyzing your page's post insights.
